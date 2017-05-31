@@ -1,0 +1,3 @@
+shell/*.o
+shell/*.bin
+shell/*.elf
