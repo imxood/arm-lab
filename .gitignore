@@ -1,3 +1,4 @@
-shell/*.o
-shell/*.bin
-shell/*.elf
+**/*.o
+**/*.bin
+**/*.elf
+**/a.out
